@@ -1,0 +1,184 @@
+@media (max-width:767px) {
+    .navbar-brand{
+        display: inherit;
+    }
+    .top_header {
+        display: none;
+    }
+     .appointment {
+        display: none;
+    }
+    .navbar-light {
+        
+        margin-top: 0px;
+    }
+    .navbar-brand img{
+        width: 50%;
+    }
+    .ban_img{
+        display: none;
+    }
+    .banner_box{
+        width: 90%;
+        text-align: center;
+        margin-left: 30px;
+    }
+     
+    .navbar-nav {
+        padding-left: 0px; 
+        
+        text-align: center;
+    }
+    .banner{
+        height: 100vh;
+    }
+    
+    .owl-dots{
+        margin-top: 50px;
+    }
+    .price{
+        margin-bottom: 30px;
+    }
+    .sponsor_img{
+        width: 20%;
+    }
+    .sponsor_img img{
+        width: 80%;
+        padding-left: 0%;
+    }
+    .sponsor{
+        width: 100%;
+    } 
+    
+}
+@media (max-width:575px){
+   
+    .agency{
+        text-align: center;
+    }
+    .agency_img img{
+        width: 70%;
+    }
+    .tooth_part_icon img{
+        width: 10%;
+    }
+    .doctor_text p{
+        padding: 0px 0px;
+    }
+    .price{
+        margin-bottom: 30px;
+    }
+    .doctor_text_client p{
+        padding: 0px 0px;
+    }
+    .client{
+        margin: 0px 0px;
+        min-height: 100vh;
+    }
+    .sponsor_img{
+        width: 20%;
+
+    }
+    .sponsor_img img{
+        width: 70%;
+        padding-left: 0%;
+    }
+    .sponsor{
+        width: 100%;
+    } 
+    
+    .ftr_txt p{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:500px){
+    .banner_box h4{
+        font-size: 18px;
+    }
+    .banner_box h1{
+        font-size: 35px;
+    }
+}
+
+@media (max-width:320px){
+    .navbar-brand{
+        width: 70%;
+
+    }
+    .banner{
+        height: 80vh;
+    } 
+    .banner_box{
+        padding-top: 45px;
+    }
+    .banner_box h4{
+        font-size: 16px;
+    }
+    .banner_box h1{
+        font-size: 20px;
+    }
+    .btn_book{
+        margin: 0;
+        margin-top: 15px;
+    }
+    .owl-dots{
+        margin-top: 10px;
+    }
+    .doctor_text p{
+        padding: 0px 0px;
+    }
+    .agency_img img{
+        display: none;
+    }
+    .agency_content_text h1{
+        margin-top: 0;
+    }
+    .owl-dots{
+        padding-left: 10px;
+    }
+    .dental_plus_logo img{
+        width: 50%;
+    }
+    .dental_plus_text p{
+        font-size: 15px;
+    }
+    .dental_plus_icon i{
+        font-size: 30px;
+    }
+    .recent_t h1{
+        font-size: 30px;
+    }
+    .author_img img{
+        width: 85%;
+    }
+    .author_t h4{
+        font-size: 16px;
+    }
+    .author_t h6{
+        font-size: 15px;
+    }
+    .newsletter_t h1{
+        font-size: 30px;
+    }
+    .subscribe input {
+        width: 50%;
+        
+        font-size: 13px;
+        
+        height: 46px;
+        
+    }
+    .subscribe_btn button {
+        
+        font-size: 15px;
+        
+    }
+    .followus h1{
+        font-size: 16px;
+    }
+    .ftr_txt p {
+        padding-top: 12px;
+        padding-left: 15px;
+    }
+}
